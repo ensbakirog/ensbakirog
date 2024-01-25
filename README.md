@@ -8,7 +8,11 @@
 
 ###
 
-<h3 align="left">- 💻 I'm a student at 42 École<br>- 📚 I'm also a student in Electronics and Communication Engineering at Kocaeli University<br>- 🚀 I’m currently learning C/C++</h3>
+<ul>
+    <li>💻 I'm a student at 42 École</li>
+    <li>📚 I'm also a student in Electronics and Communication Engineering at Kocaeli University</li>
+    <li>🚀 I’m currently learning C/C++</li>
+</ul>
 
 ###
 
