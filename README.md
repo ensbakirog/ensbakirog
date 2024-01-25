@@ -8,7 +8,7 @@
 
 ###
 
-<ul size="15">
+<ul style="font-size: 15px;">
     <li>💻 I'm a student at <b>42 École</b></li>
     <li>📚 I'm also a student in Electronics and Communication Engineering at <b>Kocaeli University</b></li>
     <li>🚀 I’m currently learning <b>C/C++</b></li>
