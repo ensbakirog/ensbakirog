@@ -8,11 +8,9 @@
 
 ###
 
-<ul align="left">
-    <li>💻 I'm a student at <b>42 École</b></li>
-    <li>📚 I'm also a student in Electronics and Communication Engineering at <b>Kocaeli University</b></li>
-    <li>🚀 I’m currently learning <b>C/C++</b></li>
-</ul>
+* 💻 I'm a student at <b>42 École</b>
+* 📚 I'm also a student in Electronics and Communication Engineering at <b>Kocaeli University</b>
+* 🚀 I’m currently learning <b>C/C++</b>
 
 ###
 
