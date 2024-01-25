@@ -5,10 +5,7 @@
 ###
 
 <div align="center">
-  <lu>
-    <li>🥷🏻 I'm <b>20</b> years old</li>
-  </lu>
-
+* 🥷🏻 I'm <b>20</b> years old<br>
 * 🇹🇷 I'm from <b>Turkey</b>
 * 💻 I'm a student at <b>42 École</b>
 * 📚 I'm also a student in Electronics and Communication Engineering at <b>Kocaeli University</b>
