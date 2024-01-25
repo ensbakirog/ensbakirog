@@ -4,7 +4,7 @@
 
 ###
 
-<h3>
+<h3 align="center">
   <ul>
     <li>🥷🏻 Age: <b>20</b> years old</li>
     <li>🇹🇷 From: <b>Turkey</b></li>
