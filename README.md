@@ -4,6 +4,7 @@
 
 ###
 
+<h2>
   <ul>
     <li>🥷🏻 Age: <b>20</b> years old</li>
     <li>🇹🇷 From: <b>Turkey</b></li>
@@ -11,7 +12,8 @@
     <li>📚 Also a student in: <b>Electronics and Communication Engineering at Kocaeli University</b></li>
     <li>🚀 Currently learning: <b>C/C++</b></li>
   </ul>
-  
+</h2>  
+
 ###
 
 <div align="center">
