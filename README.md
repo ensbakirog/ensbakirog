@@ -6,9 +6,9 @@
 
 <h3 align="center">
   🥷🏻 Age: <b>20</b> years old</li><br>
-  🇹🇷 From: <b>Turkey</b></li>
-  💻 Student at: <b>42 École</b></li>
-  📚 Also a student in: <b>Electronics and Communication Engineering at Kocaeli University</b></li>
+  🇹🇷 From: <b>Turkey</b></li><br>
+  💻 Student at: <b>42 École</b></li><br>
+  📚 Also a student in: <b>Electronics and Communication Engineering at Kocaeli University</b></li><br>
   🚀 Currently learning: <b>C/C++</b></li>
 </h3>  
 
