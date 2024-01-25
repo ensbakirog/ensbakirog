@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="500" src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
-</div>
-
+<div style="width:100%;height:0;padding-bottom:152%;position:relative;"><iframe src="https://giphy.com/embed/lkceXNDw4Agryfrwz8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-art-jeff-lkceXNDw4Agryfrwz8">via GIPHY</a></p>
 ###
 
 <h1 align="center">Hi 👋 I'm Enes Bakıroğlu 👽</h1>
