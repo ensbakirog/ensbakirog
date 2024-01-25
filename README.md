@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<ul font-size: 18px;>
+<ul>
     <li>💻 I'm a student at <b>42 École</b></li>
     <li>📚 I'm also a student in Electronics and Communication Engineering at <b>Kocaeli University</b></li>
     <li>🚀 I’m currently learning <b>C/C++</b></li>
