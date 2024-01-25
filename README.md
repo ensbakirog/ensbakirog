@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋,  I'm Enes Bakıroğlu 👽</h1>
+<h1 align="center">Hi 👋 I'm Enes Bakıroğlu 👽</h1>
 
 ###
 
