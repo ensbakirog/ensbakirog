@@ -5,13 +5,11 @@
 ###
 
 <h3 align="center">
-  <ul>
-    <li>🥷🏻 Age: <b>20</b> years old</li>
-    <li>🇹🇷 From: <b>Turkey</b></li>
-    <li>💻 Student at: <b>42 École</b></li>
-    <li>📚 Also a student in: <b>Electronics and Communication Engineering at Kocaeli University</b></li>
-    <li>🚀 Currently learning: <b>C/C++</b></li>
-  </ul>
+  🥷🏻 Age: <b>20</b> years old</li>
+  🇹🇷 From: <b>Turkey</b></li>
+  💻 Student at: <b>42 École</b></li>
+  📚 Also a student in: <b>Electronics and Communication Engineering at Kocaeli University</b></li>
+  🚀 Currently learning: <b>C/C++</b></li>
 </h3>  
 
 ###
