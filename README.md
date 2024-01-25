@@ -4,11 +4,13 @@
 
 ###
 
+<div align="center">
 * 🥷🏻 I'm <b>20</b> years old
 * 🇹🇷 I'm from <b>Turkey</b>
 * 💻 I'm a student at <b>42 École</b>
 * 📚 I'm also a student in Electronics and Communication Engineering at <b>Kocaeli University</b>
 * 🚀 I’m currently learning <b>C/C++</b>
+</div>
 
 ###
 
