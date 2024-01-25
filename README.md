@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="center">Technologies & Tools</h4>
+<h2 align="center">Technologies & Tools</h2>
 
 ###
 
