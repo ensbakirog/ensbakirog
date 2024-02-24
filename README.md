@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://badge.mediaplus.ma/greenbinary/ebakirog?1337Badge=off&UM6P=off"  />
-</div>
-
-###
-
 <h2 align="center">Technologies & Tools</h2>
 
 ###
