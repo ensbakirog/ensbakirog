@@ -5,7 +5,7 @@
 ###
 
 <h3 align="center">
-  🥷🏻 Age: <b>20</b><br>
+  🥷🏻 Age: <b>21</b><br>
   🇹🇷 From: <b>Turkey</b><br>
   💻 Student at: <b>42 École</b><br>
   📚 Also a student in: <b>Electronics and Communication Engineering at Kocaeli University</b><br>
